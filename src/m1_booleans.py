@@ -23,3 +23,15 @@
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
+print(bool(5))
+print(bool("False"))
+print(bool("True"))
+print(bool(""))
+print(bool(0))
+print(bool(-1))
+print(bool(False))
+print(bool(True))
+print(bool(2.0))
+print(bool(7 > 4))
+print(bool(5 == 4))
+print(bool(3 > 4))
